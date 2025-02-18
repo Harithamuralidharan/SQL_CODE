@@ -1,7 +1,7 @@
 # MYSQL_CODE
 
-##PROJECT TITLE :  E-Commerce Customer Churn Analysis
-Problem Statement:
+## PROJECT TITLE :  E-Commerce Customer Churn Analysis
+
       In the realm of e-commerce, businesses face the challenge of understanding customer
 churn patterns to ensure customer satisfaction and sustained profitability. This project
 aims to delve into the dynamics of customer churn within an e-commerce domain,
